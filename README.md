@@ -1,1 +1,1 @@
-# django_basics
+basics for winter
